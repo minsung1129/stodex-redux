@@ -1,0 +1,12 @@
+.__Center{
+    margin-top:10%;
+    text-align: center;
+    display: inline-block;
+}
+.__LoginT{
+    margin-right: 25% !important;
+    margin-left: 25% !important;
+}
+.__Link{
+    width: 100%;
+}

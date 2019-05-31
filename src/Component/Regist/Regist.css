@@ -1,0 +1,18 @@
+.__Center{
+    margin-top:10%;
+    text-align: center;
+    display: inline-block;
+}
+.__LoginT{
+    margin-right: 25% !important;
+    margin-left: 25% !important;
+
+}
+.__Button{
+    width:100%;
+    text-align: center;
+    display: inline-block;
+}
+.Button__regist{
+    width:50%;
+}

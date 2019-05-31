@@ -1,0 +1,21 @@
+
+.__Table{
+    width: 100%;
+    margin-left:10px;
+    tbody{
+        height: 300px;
+        overflow: auto;
+        width: 100%;
+        display: block;
+    }
+    thead{
+        text-align: center !important;
+        width: 100%;
+    }
+    thead, tbody, tr, td, th{
+        display: block;
+    }
+    tbody td, thead>tr>th{
+        border-bottom-width: 0;
+    }
+}
